@@ -33,7 +33,7 @@ It would be run something like this:
 Basic Example
 -----------
 * Win.DotNetAssemblyLoad C:\!Research\Fuzzing\DotNetPE\TestCases
-** now attached WinDbg to the process
+* now attached WinDbg to the process
 * Win.NULLFuzzer.exe C:\!Research\DotNetPE\Win.Module.dll C:\!Research\Fuzzing\DotNetPE\TestCases
 
 WARNING
